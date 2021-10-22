@@ -2,7 +2,7 @@
  * @jest-environment jsdom
  */
 import { mount } from '@vue/test-utils'
-import TestComp from './TestingComp.vue'
+import TestComp from './PhoneInput.vue'
 // import 'jsdom'
 
 describe('initial test', () => {

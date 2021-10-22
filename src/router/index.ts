@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import TestingComp from '../components/TestingComp.vue'
+import TestingComp from '../components/PhoneInput.vue'
 
 const router = createRouter({
   history: createWebHistory(),

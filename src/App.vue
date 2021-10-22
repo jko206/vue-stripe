@@ -1,7 +1,7 @@
 <template>
-  <TestingComp />
+  <PhoneInput />
 </template>
 
 <script setup lang="ts">
-import TestingComp from './components/TestingComp.vue'
+import PhoneInput from './components/PhoneInput.vue'
 </script>
